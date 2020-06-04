@@ -1,0 +1,44 @@
+* {
+	font-family: Times New Roman;
+}
+ 
+ body {
+background:#000000;
+  color:fff;
+}
+
+#menu{
+	background-color: #930001 ;
+}
+
+#menu ul{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+
+}
+
+#menu ul li{
+	display: inline-block;
+
+}
+
+#menu ul li a{
+	color:white;
+	display: block;
+	padding: 20px 75px;
+	text-decoration: none;
+}
+
+#menu ul li a:hover{
+background-color:#56070C ;
+
+
+
+.wrap{
+margin: auto;
+width: 90%;
+max-width: 1000px;
+	}
+
+
